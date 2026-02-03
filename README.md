@@ -25,31 +25,25 @@ Python • NumPy • Pandas • Matplotlib • Seaborn
 
 ## 📊 Live Visual Insights
 
+## 📊 Key Visualizations
+
 <div align="center">
 
-**🏆 Revenue & Tier Analysis**
-<br>
-<img src="images/Revenue_Share_by_Tier.jpg" width="45%">
-<img src="images/Avgs_by_Tier.jpg" width="45%">
+**Price Optimization**  
+![Price vs Revenue](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Price_vs_Revenue.jpg)
+![3D Revenue Surface](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Price_vs_Revenue_3D.jpg)
 
-**💰 Pricing Strategy**
-<br>
-<img src="images/Price_vs_Revenue.jpg" width="45%">
-<img src="images/Price_vs_Revenue_3D.jpg" width="45%">
+**Discount Impact**  
+![Discount Distribution](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Product_Dist_Perct.jpg)
+![Avg Sold by Discount](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Avg_Items_Sold.jpg)
 
-**📈 Discount Optimization** 
-<br>
-<img src="images/Product_Dist_Perct.jpg" width="45%">
-<img src="images/Cumu_Sold_vs_Discount.jpg" width="45%">
+**Product Analysis**  
+![Outlier Detection](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Price_vs_Sold_Outliers.jpg)
+![Free Shipping Impact](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Freeshipping_Tags.jpg)
 
-**🚀 Outliers & EDA**
-<br>
-<img src="images/Price_vs_Sold_Outliers.jpg" width="65%">
-
-**🔍 Advanced Analytics**
-<br>
-<img src="images/EDA.jpg" width="48%">
-<img src="images/Freeshipping_Tags.jpg" width="48%">
+**Revenue Insights**  
+![Revenue by Tier](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Revenue_Share_by_Tier.jpg)
+![Tier Characteristics](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Avgs_by_Tier.jpg)
 
 </div>
 
