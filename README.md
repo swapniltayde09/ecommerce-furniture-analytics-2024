@@ -6,9 +6,6 @@
 
 [![View Notebook](https://img.shields.io/badge/Notebook-Jupyter-blue)](FurnitureInsights_Exploratory_Analysis_2024.ipynb)
 
-## 🎯 Quick Start
-
-
 ## 🎯 Total 7 Business Objectives Delivered
 | Objective | Key Insight |
 |-----------|-------------|
