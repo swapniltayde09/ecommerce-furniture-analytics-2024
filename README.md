@@ -49,4 +49,4 @@ Python • NumPy • Pandas • Matplotlib • Seaborn
 ## 🚀 Quick Start
 ```bash
 pip install -r requirements.txt
-jupyter notebook Furniture_DataInsights_PandasOnly_2024.ipynb
+jupyter notebook FurnitureInsights_Exploratory_Analysis_2024.ipynb
