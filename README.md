@@ -13,12 +13,6 @@
 | Viral Detection | **5% outliers** = $20-100 racks |
 | Revenue Tiers | **Volume > premium pricing** |
 
-## 📊 Live Visuals
-<div align="center">
-  ![Price Curve](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/price_optimization.png)
-  ![Discount Impact](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/discount_impact.png)
-</div>
-
 ## 📊 Expected Impact
 | Metric | Improvement |
 |--------|-------------|
