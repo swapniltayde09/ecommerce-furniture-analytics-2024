@@ -50,5 +50,5 @@ Python • NumPy • Pandas • Matplotlib • Seaborn
 ```bash
 pip install -r requirements.txt
 jupyter notebook FurnitureInsights_Exploratory_Analysis_2024.ipynb
-
+```
 [![GitHub Workflow Status](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024/workflows/Run%20Notebook/badge.svg)](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024/actions)
