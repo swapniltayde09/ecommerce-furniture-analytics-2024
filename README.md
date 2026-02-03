@@ -24,28 +24,10 @@
 Python • NumPy • Pandas • Matplotlib • Seaborn
 
 ## 📊 Live Visual Insights
-
-## 📊 Key Visualizations
-
 <div align="center">
 
-**Price Optimization**  
-![Price vs Revenue](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Price_vs_Revenue.jpg)
-![3D Revenue Surface](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Price_vs_Revenue_3D.jpg)
-
-**Discount Impact**  
-![Discount Distribution](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Product_Dist_Perct.jpg)
-![Avg Sold by Discount](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Avg_Items_Sold.jpg)
-
-**Product Analysis**  
-![Outlier Detection](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Price_vs_Sold_Outliers.jpg)
-![Free Shipping Impact](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Freeshipping_Tags.jpg)
-
-**Revenue Insights**  
-![Revenue by Tier](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Revenue_Share_by_Tier.jpg)
-![Tier Characteristics](https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/Plots.Charts/Avgs_by_Tier.jpg)
-
-</div>
+Core Insights Gallery
+<table> <tr> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Price_vs_Revenue.jpg" width="300"></td> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Product_Dist_Perct.jpg" width="300"></td> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Price_vs_Sold_Outliers.jpg" width="300"></td> </tr> <tr> <td align="center"><b>Price vs Revenue<br>$25-40 sweet spot</b></td> <td align="center"><b>Discount Distribution<br>77% 0-10% range</b></td> <td align="center"><b>Viral Outliers<br>5% drive volume</b></td> </tr> </table> <table> <tr> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Avgs_by_Tier.jpg" width="450"></td> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Revenue_Share_by_Tier.jpg" width="250"></td> </tr> <tr> <td align="center"><b>Avg Metrics by Revenue Tier<br>Volume > Price</b></td> <td align="center"><b>Revenue Share<br>91% High tier</b></td> </tr> </table> </div>
 
 
 ## 🚀 Quick Start
