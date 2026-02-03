@@ -23,7 +23,7 @@
 ## Tech Stack:
 Python • NumPy • Pandas • Matplotlib • Seaborn
 
-## 📊 Live Visual Insights
+## 📊 Live Visuals
 <div align="center">
 
 Core Insights Gallery
