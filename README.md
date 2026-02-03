@@ -25,16 +25,51 @@ Python • NumPy • Pandas • Matplotlib • Seaborn
 
 ## 📊 Live Visuals
 
+### Price & Revenue
+
 <div align="center">
+  <img src="images/Price_vs_Revenue.png" alt="Price vs Revenue scatter" width="45%">
+  <img src="images/Price_Discount_Revenue.png" alt="Price–Discount–Revenue surface" width="45%">
+</div>
 
-Price & Revenue Analysis
-<table> <tr> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Price_vs_Revenue.jpg" width="300"></td> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Price_vs_Revenue_3D.jpg" width="300"></td> </tr> <tr> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Price_vs_Sold_Outliers.jpg" width="300"></td> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Price_Discount_Revenue.jpg" width="300"></td> </tr> </table>
+---
 
-Discount & Sales Impact
-<table> <tr> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Product_Dist_Perct.jpg" width="300"></td> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Avg_Items_Sold.jpg" width="300"></td> </tr> <tr> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Cumu_Sold_vs_Discount.jpg" width="300"></td> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Freeshipping_Tags.jpg" width="300"></td> </tr> </table>
+### Discount Impact
 
-Revenue Segmentation
-<table> <tr> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Revenue_Share_by_Tier.jpg" width="300"></td> <td><img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/Avgs_by_Tier.jpg" width="300"></td> </tr> </table> </div>
+<div align="center">
+  <img src="images/Product_Dist_Perct.png" alt="Product distribution by discount bin" width="45%">
+  <img src="images/Avg_Items_Sold.png" alt="Average sold by discount bin" width="45%">
+  <img src="images/Cumu_Sold_vs_Discount.png" alt="Cumulative sold vs discount %" width="90%">
+</div>
+
+---
+
+### Tags & Outliers
+
+<div align="center">
+  <img src="images/Freeshipping_Tags.png" alt="Sold distribution by free-shipping tag" width="45%">
+  <img src="images/Price_vs_Sold_Outliers.png" alt="Price vs sold with outliers highlighted" width="45%">
+</div>
+
+---
+
+### Revenue Segmentation
+
+<div align="center">
+  <img src="images/Avgs_by_Tier.png" alt="Average price/sold/discount by revenue tier" width="90%">
+  <img src="images/Revenue_Share_by_Tier.png" alt="Revenue share by tier" width="45%">
+  <img src="images/Rev_Seg_Correlation.png" alt="Correlation heatmap for revenue segmentation features" width="45%">
+</div>
+
+---
+
+### Exploratory Distributions
+
+<div align="center">
+  <img src="images/EDA.png" alt="Price, sold, and discount distributions" width="90%">
+  <img src="images/Sold_Distribution.png" alt="Sold distribution (log scale)" width="45%">
+</div>
+
 
 🔗 Full Gallery: [images/ folder → 14 charts](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024/tree/main/images)
 
