@@ -21,10 +21,12 @@ End-to-end furniture e-commerce analysis (Python + 7 business objectives)
 | Inventory | +40% efficiency |
 | Hit Detection | 82% accuracy |
 
+## Tech Stack:
+Python • NumPy • Pandas • Matplotlib • Seaborn
+
 ## Quick Start
 ```bash
 pip install -r requirements.txt
 jupyter notebook FurnitureInsights_Exploratory_Analysis_2024.ipynb
 
-## Tech Stack:
-Python • NumPy • Pandas • Matplotlib • Seaborn
+
