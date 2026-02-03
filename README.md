@@ -2,9 +2,8 @@
 
 **End-to-end analysis of 2,000 AliExpress furniture products** using **Pandas + Matplotlib + Seaborn** (no ML). Generated **+25-35% revenue insights**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ijeGN1vwBvgtHaogWbv1gRHHpLC_FNZm?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ijeGN1vwBvgtHaogWbv1gRHHpLC_FNZm)
 [![View Notebook](https://img.shields.io/badge/Notebook-Jupyter-blue)](FurnitureInsights_Exploratory_Analysis_2024.ipynb)
-[![Presentation](https://img.shields.io/badge/Presentation-HTML-orange)](presentation.html)
 
 ## 🎯 Quick Start
 
