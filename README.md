@@ -29,25 +29,36 @@
 ## Tech Stack:
 Python • NumPy • Pandas • Matplotlib • Seaborn
 
-## 📊 Key Visualizations
+## 📊 Live Visual Insights
 
-### Price Optimization Curve
-![Price vs Revenue](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/62252454-6211-43a8-a88f-8d797c65f906)
+<div align="center">
 
-### Discount Impact Analysis  
-![Discount Impact](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/65647bcd-08bb-4871-914b-a9559d80f78f)
+**🏆 Revenue & Tier Analysis**
+<br>
+<img src="images/Revenue_Share_by_Tier.jpg" width="45%">
+<img src="images/Avgs_by_Tier.jpg" width="45%">
 
-### Free Shipping Effectiveness
-![Tag Performance](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/8b29c7e2-d953-4f63-b825-20857963fa30)
+**💰 Pricing Strategy**
+<br>
+<img src="images/Price_vs_Revenue.jpg" width="45%">
+<img src="images/Price_vs_Revenue_3D.jpg" width="45%">
 
-### Product Segmentation
-![Demand Clusters](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/d4f2839c-41ea-4d3b-9721-b8dfe042bd02)
+**📈 Discount Optimization** 
+<br>
+<img src="images/Product_Dist_Perct.jpg" width="45%">
+<img src="images/Cumu_Sold_vs_Discount.jpg" width="45%">
 
-### Model Validation Plots
-![Model Evaluation](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/ebf50f84-19f1-4cec-97e6-0629b8a8ef59)
+**🚀 Outliers & EDA**
+<br>
+<img src="images/Price_vs_Sold_Outliers.jpg" width="65%">
 
-### Sales Outliers
-![Outlier Detection](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/d3c40b43-aad5-4e10-b6a5-bdae27af394e)
+**🔍 Advanced Analytics**
+<br>
+<img src="images/EDA.jpg" width="48%">
+<img src="images/Freeshipping_Tags.jpg" width="48%">
+
+</div>
+
 
 ## 🚀 Quick Start
 ```bash
