@@ -1,7 +1,7 @@
 # ecommerce-furniture-analytics-2024
 End-to-end furniture e-commerce analysis (Python + 7 business objectives)
 
-#   Furniture Analytics Insights 2024 🛋️
+#   Furniture Analytics Insights 2024
 
 **End-to-end analysis of 2,000 AliExpress furniture products** using **Core Python + Pandas + Matplotlib + Seaborn** only.
 
