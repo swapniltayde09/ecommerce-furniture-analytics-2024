@@ -4,9 +4,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ijeGN1vwBvgtHaogWbv1gRHHpLC_FNZm?usp=sharing)
 
-<a href="https://colab.research.google.com/drive/1ijeGN1vwBvgtHaogWbv1gRHHpLC_FNZm?usp=sharing">
-  <img src="https://img.shields.io/badge/Google_Colab-Run_in_Colab-blue?logo=googlecolab" alt="Colab">
-</a>
 [![View Notebook](https://img.shields.io/badge/Notebook-Jupyter-blue)](FurnitureInsights_Exploratory_Analysis_2024.ipynb)
 
 ## 🎯 Quick Start
