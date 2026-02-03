@@ -1,11 +1,11 @@
 # ecommerce-furniture-analytics-2024
 End-to-end furniture e-commerce analysis (Python + 7 business objectives)
 
-# Furniture Analytics Insights 2024 🛋️
+#   Furniture Analytics Insights 2024 🛋️
 
 **End-to-end analysis of 2,000 AliExpress furniture products** using **Core Python + Pandas + Matplotlib + Seaborn** only.
 
-## 🎯 7 Business Objectives Delivered
+## Business Objectives Delivered
 - Price optimization → **$25-40 sweet spot**
 - Discount forecasting → **30-40% optimal**
 - Tag effectiveness → **Free shipping mandatory**
@@ -14,14 +14,17 @@ End-to-end furniture e-commerce analysis (Python + 7 business objectives)
 - Viral detection → **5% outliers = $20-100 racks**
 - Revenue segmentation → **Low/Med tiers dominate**
 
-## 📊 Expected Impact
+## Expected Impact
 | Metric | Improvement |
 |--------|-------------|
 | Revenue | +25-35% |
 | Inventory | +40% efficiency |
 | Hit Detection | 82% accuracy |
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
 pip install -r requirements.txt
-jupyter notebook Furniture_DataInsights_PandasOnly_2024.ipynb
+jupyter notebook FurnitureInsights_Exploratory_Analysis_2024.ipynb
+
+## Tech Stack:
+Python • NumPy • Pandas • Matplotlib • Seaborn
