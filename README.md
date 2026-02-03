@@ -41,11 +41,6 @@ Python • NumPy • Pandas • Matplotlib • Seaborn
 ### Sales Outliers
 ![Outlier Detection](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/d3c40b43-aad5-4e10-b6a5-bdae27af394e)
 
-### Additional Revenue Charts
-![Revenue Analysis 1](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/2d335b27-b9ec-4d6e-bc70-55f7ebf6a1ad)
-![Revenue Analysis 2](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/7d65c447-4b46-4249-a90a-3d0123fbb82f)
-![Revenue Analysis 3](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/4b1c6290-656b-4dbc-a3e6-ca52e31df600)
-
 ## 🚀 Quick Start
 ```bash
 pip install -r requirements.txt
