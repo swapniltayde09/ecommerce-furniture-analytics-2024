@@ -24,9 +24,9 @@ End-to-end furniture e-commerce analysis (Python + 7 business objectives)
 ## Tech Stack:
 Python • NumPy • Pandas • Matplotlib • Seaborn
 
-## Quick Start
-```bash
-pip install -r requirements.txt
-jupyter notebook FurnitureInsights_Exploratory_Analysis_2024.ipynb
+[![GitHub Workflow Status](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024/workflows/Run%20Notebook/badge.svg)](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024/actions)
+
+<!-- Replace canvas URLs with your GitHub raw URLs -->
+<img src="https://raw.githubusercontent.com/swapniltayde09/ecommerce-furniture-analytics-2024/main/images/plot1.png">
 
 
