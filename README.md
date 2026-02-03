@@ -24,8 +24,6 @@ End-to-end furniture e-commerce analysis (Python + 7 business objectives)
 ## Tech Stack:
 Python • NumPy • Pandas • Matplotlib • Seaborn
 
-plt.savefig('images/discount_distribution.png', dpi=300, bbox_inches='tight')
-
 ## Quick Start
 ```bash
 pip install -r requirements.txt
