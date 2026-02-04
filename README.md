@@ -103,3 +103,4 @@ jupyter notebook FurnitureInsights_Exploratory_Analysis_2024.ipynb
 | Hit Detection | 82% accuracy |
 
 
+## View Presentation
