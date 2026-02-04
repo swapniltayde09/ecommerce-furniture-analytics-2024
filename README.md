@@ -104,4 +104,4 @@ jupyter notebook FurnitureInsights_Exploratory_Analysis_2024.ipynb
 
 
 ## View Presentation
-[Future Analytics Insights.pdf](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024/blob/main/Furniture%20Analytics%20Insights.pdf)
+[Furniture_Analytics_Report_Final.pdf](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024/blob/main/Furniture_Analytics_Report_Final.pdf)
